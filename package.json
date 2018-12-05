@@ -1,11 +1,14 @@
 {
   "name": "jquery-seamless",
-  "version": "1.0.0",
+  "version": "1.0.0-beta0",
   "description": "Jquery无缝滚动插件",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "HaiSheng",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
 }
